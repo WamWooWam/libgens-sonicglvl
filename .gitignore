@@ -17,6 +17,8 @@ build/
 bld/
 backup/
 [Oo]bj/
+[Bb]in/
+[Ll]ib/
 
 # Roslyn cache directories
 *.ide/
